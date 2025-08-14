@@ -1,5 +1,5 @@
 # Qt 构建目录
-build-*/
+build/*
 *.user
 *.autosave
 # 编译生成文件
