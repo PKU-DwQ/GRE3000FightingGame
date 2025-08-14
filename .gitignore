@@ -1,0 +1,12 @@
+# Qt 构建目录
+build-*/
+*.user
+*.autosave
+# 编译生成文件
+*.o
+*.exe
+*.so
+*.dll
+# 其他
+.DS_Store
+*.log
